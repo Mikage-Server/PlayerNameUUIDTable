@@ -1,0 +1,4 @@
+name: PlayerNameUUIDTable
+version: '${version}'
+main: com.takara2314.playernameuuidtable.PlayerNameUUIDTable
+api-version: '1.20'
